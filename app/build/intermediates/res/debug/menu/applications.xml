@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/actionSort" android:icon="@drawable/ic_menu_sort" android:showAsAction="always" android:title="@string/title_action_sort"></item>
+
+ 
+</menu>
+<!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/menu/applications.xml -->

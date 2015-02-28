@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<PreferenceCategory
+	    android:title="@string/pref_tabs_category">
+
+ 	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="tabapplications"
+        android:title="@string/pref_tabs_applications_title" />
+	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="tabprofiles"
+        android:title="@string/pref_tabs_profiles_title" />
+ 	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="tabspheres"
+        android:title="@string/pref_tabs_spheres_title" />
+		    	    	    	    
+	</PreferenceCategory>
+	
+</PreferenceScreen>
+<!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/xml/pref_tabs.xml -->

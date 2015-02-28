@@ -1,0 +1,237 @@
+<categories>
+    
+    <category>
+        <description>Books and Reference applications</description>
+        <icon>ps_books.png</icon>
+        <filename>books.xml</filename>
+        <label>Books and Reference</label>
+        <name>Books</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/BOOKS_AND_REFERENCE?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Business applications</description>
+        <icon>ps_business.png</icon>
+        <filename>business.xml</filename>
+        <label>Business</label>
+        <name>Business</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/BUSINESS?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Comic applications</description>
+        <icon>ps_comics.png</icon>
+        <filename>comics.xml</filename>
+        <label>Comics</label>
+        <name>Comics</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/COMICS?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Communications applications</description>
+        <icon>ps_communication.png</icon>
+        <filename>communication.xml</filename>
+        <label>Communications</label>
+        <name>Communications</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/COMMUNICATION?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Education applications</description>
+        <icon>ps_education.png</icon>
+        <filename>education.xml</filename>
+        <label>Education</label>
+        <name>Education</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/EDUCATION?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Entertainment applications</description>
+        <icon>ps_entertainment.png</icon>
+        <filename>entertainment.xml</filename>
+        <label>Entertainment</label>
+        <name>Entertainment</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/ENTERTAINMENT?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Financial applications</description>
+        <icon>ps_finance.png</icon>
+        <filename>finance.xml</filename>
+        <label>Finance</label>
+        <name>Finance</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/FINANCE?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Games applications</description>
+        <icon>ps_games.png</icon>
+        <filename>games.xml</filename>
+        <label>Games</label>
+        <name>Games</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/EDUCATION?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Health and Fitness applications</description>
+        <icon>ps_health.png</icon>
+        <filename>health.xml</filename>
+        <label>Health and Fitness</label>
+        <name>Health</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/HEALTH_AND_FITNESS?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Libraries and Demo applications</description>
+        <icon>ps_libraries.png</icon>
+        <filename>libraries.xml</filename>
+        <label>Libraries and Demo</label>
+        <name>Librarires</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/LIBRARIES_AND_DEMO?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Lifestyle applications</description>
+        <icon>ps_lifestyle.png</icon>
+        <filename>lifestyle.xml</filename>
+        <label>Lifestyle</label>
+        <name>Lifestyle</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/LIFESTYLE?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Live Wallpaper applications</description>
+        <icon>ps_live.png</icon>
+        <filename>live.xml</filename>
+        <label>Live Wallpaper</label>
+        <name>Live Wallpaper</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/APP_WALLPAPER?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Media and Video applications</description>
+        <icon>ps_media.png</icon>
+        <filename>media.xml</filename>
+        <label>Media and Video</label>
+        <name>Media</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/MEDIA_AND_VIDEO?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Medical applications</description>
+        <icon>ps_medical.png</icon>
+        <filename>medical.xml</filename>
+        <label>Medical</label>
+        <name>Medical</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/MEDICAL?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Music and Audio applications</description>
+        <icon>ps_music.png</icon>
+        <filename>music.xml</filename>
+        <label>Music and Audio</label>
+        <name>Music</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/MUSIC_AND_AUDIO?feature=category-nav</url>
+    </category>
+    <category>
+        <description>News and Magazines applications</description>
+        <icon>ps_news.png</icon>
+        <filename>news.xml</filename>
+        <label>News and Magazines</label>
+        <name>News</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/NEWS_AND_MAGAZINES?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Personalization applications</description>
+        <icon>ps_personal.png</icon>
+        <filename>personal.xml</filename>
+        <label>Personalization</label>
+        <name>Personalization</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/PERSONALIZATION?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Photography and Camera applications</description>
+        <icon>ps_photography.png</icon>
+        <filename>photography.xml</filename>
+        <label>Photography and Camera</label>
+        <name>Photography</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/PHOTOGRAPHY?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Productivity applications</description>
+        <icon>ps_productivity.png</icon>
+        <filename>productivity.xml</filename>
+        <label>Productivity</label>
+        <name>Productivity</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/PRODUCTIVITY?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Shopping applications</description>
+        <icon>ps_shopping.png</icon>
+        <filename>shopping.xml</filename>
+        <label>Shopping</label>
+        <name>Shopping</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/SHOPPING?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Social applications</description>
+        <icon>ps_social.png</icon>
+        <filename>social.xml</filename>
+        <label>Social</label>
+        <name>Social</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/SOCIAL?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Sports applications</description>
+        <icon>ps_sports.png</icon>
+        <filename>sports.xml</filename>
+        <label>Sports</label>
+        <name>Sports</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/SPORTS?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Tools applications</description>
+        <icon>ps_tools.png</icon>
+        <filename>tools.xml</filename>
+        <label>Tools</label>
+        <name>Tools</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/TOOLS?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Transportation applications</description>
+        <icon>ps_transport.png</icon>
+        <filename>transport.xml</filename>
+        <label>Transport</label>
+        <name>Transport</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/TRANSPORTATION?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Travel and Local applications</description>
+        <icon>ps_travel.png</icon>
+        <filename>travel.xml</filename>
+        <label>Travel</label>
+        <name>Travel</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/TRAVEL_AND_LOCAL?feature=category-nav</url>
+    </category>
+    <category>
+        <description>Weather applications</description>
+        <icon>ps_weather.png</icon>
+        <filename>weather.xml</filename>
+        <label>Weather</label>
+        <name>Weather</name>
+        <type>ps</type>
+        <url>https://play.google.com/store/apps/category/WEATHER?feature=category-nav</url>
+    </category>                                                                                                          
+</categories>

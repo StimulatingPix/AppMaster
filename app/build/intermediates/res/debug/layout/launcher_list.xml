@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    
+    <ImageView
+        android:id="@+id/iv_launcher_icon"
+        android:layout_width="@dimen/icon_size_m"
+        android:layout_height="@dimen/icon_size_m"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="false"
+        android:layout_centerVertical="false"
+        android:layout_margin="@dimen/lv_margin"
+        android:contentDescription="@string/txt_blank_string" />
+
+    <TextView
+        android:id="@+id/tv_launcher_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/iv_launcher_icon"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_below="@id/iv_launcher_icon"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="@dimen/lv_margin"
+        android:gravity="center"
+        android:text="@string/txt_name"
+        android:textStyle="normal" />
+    
+</RelativeLayout>
+<!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/layout/launcher_list.xml -->

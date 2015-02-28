@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_spinner_item_category_name"
+    style="@style/MySpinnerStyle"
+    android:layout_width="match_parent"
+    android:layout_height="36dp"
+    android:padding="@dimen/launch_spinner_padding"
+    android:text="@string/txt_item" />
+
+<!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/layout/spinner_item_category.xml -->

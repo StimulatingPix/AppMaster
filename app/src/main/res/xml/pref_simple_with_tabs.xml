@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+	<PreferenceCategory
+	    android:title="@string/pref_general_category">
+
+  		<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="appcount"
+        android:summary="@string/pref_appcount_summary"
+        android:title="@string/pref_appcount_title" />
+
+<!--   	  	<CheckBoxPreference -->
+<!--         android:defaultValue="false" -->
+<!--         android:key="launch" -->
+<!--         android:summary="@string/pref_launch_summary" -->
+<!--         android:title="@string/pref_launch_title" /> -->
+  	  	
+<!--   		<CheckBoxPreference -->
+<!--         android:defaultValue="false" -->
+<!--         android:key="logging" -->
+<!--         android:summary="@string/pref_logging_summary" -->
+<!--         android:title="@string/pref_logging_title" /> -->
+  		  	  		    	    	    
+	</PreferenceCategory>    
+	
+	<PreferenceCategory
+	    android:title="@string/pref_category_category">
+
+	<ListPreference 
+	     android:defaultValue="media"
+         android:key="profile" 
+         android:title="@string/pref_category_title"
+         android:summary="@string/pref_category_summary"/>  	
+	    	    	    
+	</PreferenceCategory>    
+    
+	<PreferenceCategory
+	    android:title="@string/pref_tabs_category">
+
+ 	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="tabapplications"
+        android:title="@string/pref_tabs_applications_title" />
+	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="tabprofiles"
+        android:title="@string/pref_tabs_profiles_title" />
+ 	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="tabspheres"
+        android:title="@string/pref_tabs_spheres_title" />
+		    	    	    	    
+	</PreferenceCategory>	
+		
+	<PreferenceCategory
+	    android:title="@string/pref_diagnostic_category">
+
+  	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="diagnostics"
+        android:summary="@string/pref_diagnostic_summary"
+        android:title="@string/pref_diagnostic_title" />
+	    	    	    
+	</PreferenceCategory>    
+
+	<PreferenceCategory
+	    android:title="@string/pref_restore_category">
+
+  	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="restore"
+        android:summary="@string/pref_restore_summary"
+        android:title="@string/pref_restore_title" />
+	    	    	    
+	</PreferenceCategory> 	
+
+		
+</PreferenceScreen>

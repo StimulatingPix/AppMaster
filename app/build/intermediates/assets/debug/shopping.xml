@@ -1,0 +1,8 @@
+<apps>
+    
+    <app>
+        <name>Play Store</name>
+        <packagename>com.android.vending</packagename>
+    </app>
+    
+</apps>

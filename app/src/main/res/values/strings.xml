@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="blank_string"></string>
+    <string name="silent">Silent</string>
+
+    <!-- applicatiion strings -->
+    <string name="app_about">About App Master</string>
+    <string name="app_name">App Master</string>
+    <string name="app_title">App Master</string>
+    <string name="app_path">mnt/sdcard/AppMaster/</string>
+    <string name="app_flavour">Amaretto</string>
+    <string name="app_version">Version 2.10.00</string>
+    <string name="app_android_vmin">Android Version - minimum 2.2</string>
+    <string name="app_android_vtar">Android Version - target 4.2</string>
+    <string name="app_android_vplt">Android Version - platform </string>
+
+    <!-- applicatiion description strings -->
+    <string name="app_description1">App Master is a application manager/launcher for Android.</string>
+    <string name="app_description2">Use the APPS menu option to manage your applications. Applications can be listed by name, date installed or date last updated. By clicking on the app, you can view its details, run the app, or uninstall the app.</string>
+    <string name="app_description3">Use the CONFIGURE menu option, to drag and drop your applications into the appropriate categories.</string>
+    <string name="app_description4">Use the ORGANISE menu option to further organise your categories. The apps can be sorted in ascending/descending name order.You can also add and remove apps from a category.</string>
+    <string name="app_description5">Use the LAUNCH menu option to launch the applications in the required category.</string>
+    <string name="app_description6">To switch categories in the application launch mode use the drop down control.</string>
+    <string name="app_description7">To close the application in the application launch mode click the close button.</string>
+    
+    <!-- applicatiion contact strings -->
+    <string name="app_email">stephenpeacock.stimulatingpix@gmail.com</string>
+    <string name="app_phone">+44(0)7775860329</string>
+
+    <!-- applicatiion url strings -->
+    <string name="app_url">http://www.the-android-app.com/apps/com.taa.android.app.master</string>
+    <string name="app_url_help">http://www.the-android-app.com/apps/com.taa.android.app.master/help/index.htm</string>
+
+    <!-- button strings -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="btn_action_details">Details</string>
+    <string name="btn_action_run">Run</string>
+    <string name="btn_action_uninstall">Uninstall</string>
+
+    <!-- dialog strings -->
+    <string name="dialog_app_sort">Sort Applications</string>
+    <string name="dialog_app_remove">Remove Applications</string>
+
+    <!-- error strings -->
+    <string name="err_general">Error in App Master</string>
+    <string name="err_app_in_category">Application is in this category</string>
+    <string name="err_app_not_loaded">Application not loaded from category file </string>
+    <string name="err_no_internet">Error no Internet connection</string>
+    <string name="err_load_config">Error loading configuration</string>
+
+    <!-- folders strings -->
+    <string name="folders_base_path">mnt/sdcard</string>
+    <string name="folders_app_path">AppMaster</string>
+    <string name="folders_severe_error">Severe Error folder was not created</string>
+    <string name="folders_success">Success folder was created</string>
+
+    <!-- install strings -->
+    <string name="install_title">App Master Install</string>
+    <string name="install_new_message">This installation will create a new AppMaster folder on the SD Card</string>
+    <string name="install_update_message">This installation will update the AppMaster folder on the SD Card</string>
+    <string name="install_label_installing">Installing</string>
+    <string name="install_label_create_folders">Creating folder</string>
+    <string name="install_status_working">Working</string>
+    <string name="install_status_done">Done</string>
+    <string name="install_status_complete">Complete</string>
+    <string name="install_status_failed">Failed</string>
+    <string name="install_label_log">Install Log</string>
+    <string name="install_label">Install</string>
+
+    <!-- label strings -->
+    <string name="label_sphere_profile">Profile</string>
+    <string name="label_sphere_name">Name</string>
+    <string name="label_sphere_desc">Description</string>
+    <string name="label_applications">Installed Applications</string>
+    <string name="label_apps">Apps in this category</string>
+    <string name="label_app_save">Save</string>
+    <string name="label_app_delete">Delete</string>
+    <string name="label_app_count">Apps in this category</string>
+
+    <!-- activity label strings -->
+    <string name="label_activity_applications">Manage Applications</string>
+    <string name="label_activity_configure">Configure</string>
+    <string name="label_activity_launcher">Launcher</string>
+    <string name="label_activity_help">Help</string>
+    <string name="label_activity_main">App Master</string>
+    <string name="label_activity_organise">Organise</string>
+    <string name="label_activity_release">App Master Installer</string>
+    <string name="label_activity_settings">Settings</string>
+    <string name="label_activity_status">Internet Status</string>
+    <string name="label_activity_store">Google Play Store</string>
+    <string name="label_activity_web">Help</string>
+
+    <!-- sort strings -->
+    <string name="app_sort_name_asc">Name - ascending</string>
+    <string name="app_sort_name_desc">Name - descending</string>
+    <string name="app_sort_install_asc">Date installed - lastest first</string>
+    <string name="app_sort_install_desc">Date installed - lastest last</string>
+    <string name="app_sort_update_asc">Date updated - lastest first</string>
+    <string name="app_sort_update_desc">Date updated - lastest last</string>
+
+    <!-- text strings -->
+    <string name="txt_apps_count">Total number of Applications </string>
+    <string name="txt_blank_string"></string>
+    <string name="txt_about">About</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_help">Help</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_item">item</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_null">none</string>
+    <string name="txt_label_package">Package - </string>
+    <string name="txt_package">Package</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_category">Category</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_label_installed">Installed - </string>
+    <string name="txt_installed">Installed</string>
+    <string name="txt_label_lastupdated">Updated - </string>
+    <string name="txt_lastupdated">Last Updated</string>
+
+    <!-- menu strings -->
+    <string name="action_apps_sort">Sort Apps</string>
+    <string name="action_apps_remove">Remove Apps</string>
+    <string name="menu_item_launch">Launch</string>
+    <string name="menu_item_apps">Apps</string>
+    <string name="menu_item_configure">Configure</string>
+    <string name="menu_item_organise">Organise</string>
+    <string name="menu_item_store">Store</string>
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_help">Help</string>
+
+    <!-- title strings -->
+    <string name="title_action_apps">Apps</string>
+    <string name="title_action_configure">Configure</string>
+    <string name="title_action_launch">Launch</string>
+    <string name="title_action_sort">Sort</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

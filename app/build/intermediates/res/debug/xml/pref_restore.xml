@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+ 	<CheckBoxPreference
+        android:defaultValue="false"
+        android:key="restore"
+        android:summary="@string/pref_restore_summary"
+        android:title="@string/pref_restore_title" />
+    
+</PreferenceScreen><!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/xml/pref_restore.xml -->

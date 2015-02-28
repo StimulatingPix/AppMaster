@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/lv_margin"
+    android:orientation="vertical" >
+
+   <RadioGroup
+        android:id="@+id/radioappSort"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+            
+    <RadioButton
+        android:id="@+id/rbNameAsc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_sort_name_asc" />
+    <RadioButton
+        android:id="@+id/rbNameDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_sort_name_desc" />
+    <RadioButton
+        android:id="@+id/rbInstallAsc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_sort_install_asc" />
+    <RadioButton
+        android:id="@+id/rbInstallDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_sort_install_desc" />
+    <RadioButton
+        android:id="@+id/rbUpdateAsc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_sort_update_asc" />
+    <RadioButton
+        android:id="@+id/rbUpdateDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_sort_update_desc" />
+    
+    </RadioGroup>
+
+</LinearLayout><!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/layout/app_sort.xml -->

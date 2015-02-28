@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/zero_margin"
+    android:paddingLeft="@dimen/zero_margin"
+    android:paddingRight="@dimen/zero_margin"
+    android:paddingTop="@dimen/zero_margin"
+    tools:context=".StoreActivity" >
+
+    		<Spinner
+    		    android:id="@+id/spinnerStore"
+    		    android:layout_width="match_parent"
+    		    android:layout_height="wrap_content" />
+    
+			<WebView
+			    android:id="@+id/webviewStore"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent"
+			    android:layout_below="@id/spinnerStore" />
+		    		
+</RelativeLayout>
+<!-- From: file:/C:/Users/Stephen/AndroidStudioProjects/AppMaster/app/src/main/res/layout/activity_store.xml -->

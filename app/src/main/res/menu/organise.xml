@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/itemAppsSort" android:icon="@drawable/ic_menu_sort" android:showAsAction="always" android:title="@string/action_apps_sort"></item>
+    <item android:id="@+id/itemAppsRemove" android:icon="@drawable/ic_menu_delete" android:showAsAction="always" android:title="@string/action_apps_remove"></item>
+    
+</menu>

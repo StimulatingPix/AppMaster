@@ -1,0 +1,33 @@
+<resources>
+ 
+	<!-- general settings  -->
+	<string name="pref_general_category">General</string>
+    <string name="pref_appcount_title">Display count of apps</string>
+    <string name="pref_appcount_summary">Display the number of applications in each category</string>
+    <string name="pref_launch_title">Launch profile when clicked</string>
+    <string name="pref_launch_summary">Launch profile applications when a profile is clicked</string>
+    <string name="pref_logging_title">Disable activity logging</string>
+    <string name="pref_logging_summary">Do not log activity within the application</string>
+    
+	<!-- settings for diagnostics -->
+	<string name="pref_diagnostic_category">Diagnostics</string>
+    <string name="pref_diagnostic_title">Enable diagnostic toasts</string>
+    <string name="pref_diagnostic_summary">Display diagnostic toasts within the applcation</string>
+
+	<!-- settings for category -->
+	<string name="pref_category_category">Category</string>
+    <string name="pref_category_title">Set your active category</string>
+    <string name="pref_category_summary">Use this category to launch your application</string>
+
+	<!-- settings for restore -->
+	<string name="pref_restore_category">Restore</string>
+    <string name="pref_restore_title">Restore factory settings</string>
+    <string name="pref_restore_summary">Warning this will overwrite your existing configuration</string>
+
+	<!-- settings for tabs -->
+	<string name="pref_tabs_category">Tabs</string>
+    <string name="pref_tabs_applications_title">Display the applications tabs</string>
+    <string name="pref_tabs_profiles_title">Display the profiles tabs</string>
+    <string name="pref_tabs_spheres_title">Display the spheres tabs</string>
+    	       
+</resources>

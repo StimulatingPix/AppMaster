@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_launch"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/launch_activity_vertical_margin"
+    android:paddingLeft="@dimen/launch_activity_horizontal_margin"
+    android:paddingRight="@dimen/launch_activity_horizontal_margin"
+    android:paddingTop="@dimen/launch_activity_vertical_margin"
+    tools:context=".LauncherActivity" >
+   
+   	<Spinner
+   	    android:id="@+id/spinner_launch"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_alignParentBottom="true"
+   	    android:layout_alignParentRight="true"
+   	    android:layout_marginBottom="@dimen/launch_spinner_btm"
+   	    android:spinnerMode="dialog" >
+
+	</Spinner>	
+   
+   <GridView
+       android:id="@+id/gridApps"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_margin="@dimen/launch_activity_horizontal_margin"
+       android:gravity="center"
+       android:numColumns="auto_fit"
+       android:stretchMode="columnWidth" >
+
+    </GridView>
+
+   <ImageButton
+       android:id="@+id/ib_launch"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentStart="true"
+       android:layout_alignTop="@id/spinner_launch"
+       android:background="@null"
+       android:contentDescription="@string/blank_string"
+       android:src="@drawable/ic_launcher" />
+
+   <ImageButton
+       android:id="@+id/ib_close"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignTop="@+id/spinner_launch"
+       android:layout_toLeftOf="@id/spinner_launch"
+       android:background="@null"
+       android:contentDescription="@string/blank_string"
+       android:src="@drawable/ic_close" />
+    
+</RelativeLayout>
